@@ -1,3 +1,4 @@
+var inquirer = require("inquirer");
 // Array of words
 var wordBank = ["harrypotter", "usher", "baylor", "houstontexans", "aquariums", "whiskey", "dogs"];
 var Word = function(picture, song, preview){};
@@ -28,3 +29,5 @@ var userInput = function() {
           message: "Guess a letter"
         }
     ])}
+
+userInput();
