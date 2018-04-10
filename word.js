@@ -19,3 +19,12 @@ console.log(this.lettersOfWord);
 
 
 
+var userInput = function() {
+    inquirer.prompt([
+    
+        {
+          type: "input",
+          name: "letterInput",
+          message: "Guess a letter"
+        }
+    ])}
