@@ -1,0 +1,24 @@
+{
+  "name": "constructor_hangman",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/monircederstrom/constructor_hangman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monircederstrom/constructor_hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monircederstrom/constructor_hangman/issues"
+  },
+  "homepage": "https://github.com/monircederstrom/constructor_hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "require": "^2.4.20",
+    "require-promise": "^1.0.1"
+  }
+}
